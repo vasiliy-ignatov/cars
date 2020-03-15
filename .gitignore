@@ -1,0 +1,5 @@
+# windows thumbnail cache
+Thumbs.db
+
+#node-modules
+node_modules
